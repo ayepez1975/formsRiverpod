@@ -1,2 +1,1 @@
-
-export 'username.dart';
+export 'formRegister/inputs_register_form.dart';
